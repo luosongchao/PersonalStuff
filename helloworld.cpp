@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	cout<<"hello world"<<endl;
-	cout<<"wrong"<<end;
+	int value=12;
+	cout<<value<<endl;  
 }
 
