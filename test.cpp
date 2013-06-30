@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-int main()
+int mian()
 {
-    cout<<"i found this is great!"<<endl;
+  cout<<"it't wonderful !"<<endl;
 }
